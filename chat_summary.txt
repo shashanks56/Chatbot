@@ -1,0 +1,110 @@
+Session Summary
+Date: 05 March 2025, 03:33 PM
+Commands Used: 28
+Most Frequent Command: list operations
+
+Full Chat History:
+Chatbot: Hello! I'm your assistant! How can I help you today?
+User: hii
+Chatbot: Enter correct keyword
+User: hi
+Chatbot: Hi there! How can I help you today?
+User: hey
+Chatbot: Hi there! How can I help you today?
+User: helloo
+Chatbot: Enter correct keyword
+User: hello
+Chatbot: Hi there! How can I help you today?
+User: hi
+Chatbot: Hi there! How can I help you today?
+User: date
+Chatbot: Today's date is 05 March 2025
+Chatbot: How else can I assist you?
+User: time
+Chatbot: Current time is 03:26 PM
+Chatbot: How else can I assist you?
+User: date and time
+Chatbot: It's 05 March 2025, 03:26 PM
+Chatbot: How else can I assist you?
+User: list operations
+Chatbot: Please enter a list of integers (comma separated integer):
+User: 1,2,3,2,1,2,1,3,5,5,4,5,4,5,9,12,5,6,7,1551
+Chatbot: Sum: 1633
+Chatbot: Maximum: 1551
+Chatbot: Minimum: 1
+Chatbot: Reversed List: [1551, 7, 6, 5, 12, 9, 5, 4, 5, 4, 5, 5, 3, 1, 2, 1, 2, 3, 2, 1]
+Chatbot: Would you like to remove duplicates? (yes/no)
+User: yes
+Chatbot: Updated List: [1, 2, 3, 4, 5, 6, 7, 9, 12, 1551]
+Chatbot: Sum: 1600
+Chatbot: Maximum: 1551
+Chatbot: Minimum: 1
+Chatbot: Reversed List: [1551, 12, 9, 7, 6, 5, 4, 3, 2, 1]
+Chatbot: How else can I assist you?
+User: generate prime
+Chatbot: Enter range (start and end):
+User: 1,200
+Chatbot: Prime Numbers: [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 101, 103, 107, 109, 113, 127, 131, 137, 139, 149, 151, 157, 163, 167, 173, 179, 181, 191, 193, 197, 199]
+Chatbot: How else can I assist you?
+User: search history
+Chatbot: Enter the keyword to search in chat history:
+User: time
+Chatbot: Found the following lines:
+Chatbot: - "User: time"
+Chatbot: - "Chatbot: Current time is 03:26 PM"
+Chatbot: - "User: date and time"
+Chatbot: - "User: time"
+Chatbot: How else can I assist you?
+User: search history
+Chatbot: Enter the keyword to search in chat history:
+User: 5
+Chatbot: Found the following lines:
+Chatbot: - "Chatbot: Today's date is 05 March 2025"
+Chatbot: - "Chatbot: It's 05 March 2025, 03:26 PM"
+Chatbot: - "User: 1,2,3,2,1,2,1,3,5,5,4,5,4,5,9,12,5,6,7,1551"
+Chatbot: - "Chatbot: Maximum: 1551"
+Chatbot: - "Chatbot: Reversed List: [1551, 7, 6, 5, 12, 9, 5, 4, 5, 4, 5, 5, 3, 1, 2, 1, 2, 3, 2, 1]"
+Chatbot: - "Chatbot: Updated List: [1, 2, 3, 4, 5, 6, 7, 9, 12, 1551]"
+Chatbot: - "Chatbot: Maximum: 1551"
+Chatbot: - "Chatbot: Reversed List: [1551, 12, 9, 7, 6, 5, 4, 3, 2, 1]"
+Chatbot: - "Chatbot: Prime Numbers: [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 101, 103, 107, 109, 113, 127, 131, 137, 139, 149, 151, 157, 163, 167, 173, 179, 181, 191, 193, 197, 199]"
+Chatbot: - "User: 5"
+Chatbot: How else can I assist you?
+User: list operations
+Chatbot: Please enter a list of integers (comma separated integer):
+User: 1,5,6,7,8,9,3
+Chatbot: Sum: 39
+Chatbot: Maximum: 9
+Chatbot: Minimum: 1
+Chatbot: Reversed List: [3, 9, 8, 7, 6, 5, 1]
+Chatbot: Would you like to remove duplicates? (yes/no)
+User: yes
+Chatbot: Updated List: [1, 3, 5, 6, 7, 8, 9]
+Chatbot: Sum: 39
+Chatbot: Maximum: 9
+Chatbot: Minimum: 1
+Chatbot: Reversed List: [9, 8, 7, 6, 5, 3, 1]
+Chatbot: How else can I assist you?
+User: list operations
+Chatbot: Please enter a list of integers (comma separated integer):
+User: 1,3,5,7,9,11
+Chatbot: Sum: 36
+Chatbot: Maximum: 11
+Chatbot: Minimum: 1
+Chatbot: Reversed List: [11, 9, 7, 5, 3, 1]
+Chatbot: Would you like to remove duplicates? (yes/no)
+User: no
+Chatbot: How else can I assist you?
+User: hello
+Chatbot: Hi there! How can I help you today?
+User: generate prime
+Chatbot: Enter range (start and end):
+User: 1178,1656
+Chatbot: Prime Numbers: [1181, 1187, 1193, 1201, 1213, 1217, 1223, 1229, 1231, 1237, 1249, 1259, 1277, 1279, 1283, 1289, 1291, 1297, 1301, 1303, 1307, 1319, 1321, 1327, 1361, 1367, 1373, 1381, 1399, 1409, 1423, 1427, 1429, 1433, 1439, 1447, 1451, 1453, 1459, 1471, 1481, 1483, 1487, 1489, 1493, 1499, 1511, 1523, 1531, 1543, 1549, 1553, 1559, 1567, 1571, 1579, 1583, 1597, 1601, 1607, 1609, 1613, 1619, 1621, 1627, 1637]
+Chatbot: How else can I assist you?
+User: bye
+Chatbot: Here's a summary of your session:
+Chatbot:  Commands Used: 28
+Chatbot:  Most Frequent Command: list operations
+Chatbot: Do you want to save this summary? (yes/no)
+User: yes
