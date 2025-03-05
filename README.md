@@ -38,9 +38,7 @@ Once the chatbot starts, you can type these commands:
 | `date`               | Shows today's date. 
 | `time`               | Shows current time. 
 | `date and time`      | Shows both date and time. 
-
 | `list operations`    | Asks for a list of numbers, performs operations like sum, min, max,reverse, and remove duplicates.
-
 | `generate prime`     | Generates prime numbers within a given range. 
 | `search history`     | Searches all messages (user + bot) for a keyword. 
 | `bye`                | Ends session, shows summary, and optionally saves it to a file.
