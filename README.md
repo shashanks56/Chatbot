@@ -46,11 +46,11 @@ Once the chatbot starts, you can type these commands:
 ---
 
 ## 📖 Example Session Flow
-
+```
 Chatbot: Hello! I'm your assistant! How can I help you today?
 User: date
 Chatbot: Today's date is 04 March 2025
-
+```
 ## 🗂️ Full Chat Summary is saved in the summary file.
 
 
